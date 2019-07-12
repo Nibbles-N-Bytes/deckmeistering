@@ -6,8 +6,6 @@ using namespace std;
 
 int main()
 {
-   // string item, header;
-   // int cost=0, total=0, starting_money, k = 0;
     string DeckName;
     int R=0, A=0, S=0, D=0, F=0, P=0, Tax=0, Tax_cost=0, Cost=0, Scratch=0, loop_count=0;
     float Percent = 0, Percent_Ave=0;
