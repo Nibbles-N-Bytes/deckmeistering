@@ -1,0 +1,20 @@
+Deck                      Array      Cost    Scratch   Percenage
+----------------------------------------------------------------
+Erica_MCD-1              1 4321 1    49500   26000     0.53
+MicrodeckSummit          1 4331 1    58000   29000     0.50
+Microtronica             2 5432 2    110250  65000     0.59
+HermesChariot            2 5442 2    123000  69500     0.57
+NovaTech_Nav             3 6543 3    205750  124000    0.60
+Renraku_Tsurugi          3 6553 3    214125  130000    0.61
+Sony_CIY-720             4 7654 4    345000  203000    0.59
+ShiawaseCyber5           5 8765 5    549375  302000    0.55
+FairlightExcal           6 9876 6    823250  421000    0.51
+RadioShackPCD            1 2211 1    21000   14000     0.67
+LittleHornet             2 5411 2    89700   56500     0.63
+Micro_Azteca300          3 7531 3    200000  120000    0.60
+Xiao_MPG-1               4 8543 3    302000  162000    0.54
+ShiawaseCyber4           5 8642 3    331000  202000    0.61
+FairlightPali            6 9988 6    1050000 463000    0.44
+
+
+Average Percentage: 0.57
