@@ -1,0 +1,15 @@
+Erica_MCD-1	1 4 3 2 1 1 49500
+MicrodeckSummit	1 4 3 3 1 1 58000
+Microtronica	2 5 4 3 2 2 110250
+HermesChariot	2 5 4 4 2 2 123000
+NovaTech_Nav	3 6 5 4 3 3 205750
+Renraku_Tsurugi	3 6 5 5 3 3 214125
+Sony_CIY-720	4 7 6 5 4 4 345000
+ShiawaseCyber5	5 8 7 6 5 5 549375
+FairlightExcal	6 9 8 7 6 6 823250
+RadioShackPCD	1 2 2 1 1 1 21000
+LittleHornet	2 5 4 1 1 2 89700
+Micro_Azteca300 3 7 5 3 1 3 200000
+Xiao_MPG-1	4 8 5 4 3 3 302000
+ShiawaseCyber4	5 8 6 4 2 3 331000
+FairlightPali	6 9 9 8 8 6 1050000
