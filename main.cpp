@@ -25,24 +25,14 @@ int main()
 
     cout << left << fixed<< endl;
     //output << left << fixed;
-    //file >> item >> starting_money;   //idk if needed
     //cout << setw(25) << DeckName << starting_money << endl << endl;
     cout << setw(25) << "Deck" << setw(12) << " Array" << setw(8) <<"Cost" <<setw(10) << "Scratch"<<setw(10) << "Percenage"<<"Tax\n---------------------------------------------------------------------\n";
     //output << setw(25) << "Deck" << setw(12) << " Array" << setw(8) <<"Cost" <<setw(10) << "Scratch"<<setw(10) << "Percenage\n----------------------------------------------------------------\n";
     while (!file.eof())
     {
-    //need to determine numbers like tax
     file >> DeckName >> R >> A >> S >> D >> F >> P>> Cost;
-    //total+=cost;
 
     Tax = A+S+D+F;
-   /* Tax_cost = Tax*((R+P-2)/2)*500;
-    cout << Tax_cost;
-    if (Tax_cost == 0)
-    {
-        Tax_cost = 125;
-    }
-    */
     if ((R+P-2) == 0)
     {
         Tax_cost = 125*Tax;
